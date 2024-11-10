@@ -1,10 +1,4 @@
-Certo! Para incluir a Twilio no projeto para integração com o chatbot, será necessário instalar o pacote oficial do Twilio. Isso é feito com o comando:
 
-```bash
-npm install twilio
-```
-
-Vou atualizar o `README.md` com a informação correta sobre a instalação da Twilio. Aqui está o arquivo atualizado:
 
 ---
 
@@ -180,8 +174,7 @@ Para rodar o servidor em modo de produção:
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT.
+Este projeto é licenciado por Rafael de souza dias
 
 ---
 
-Esse `README.md` atualizado agora inclui a instalação correta da biblioteca Twilio para o chatbot, e mantém todas as instruções para fácil configuração e uso.
